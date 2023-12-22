@@ -38,7 +38,7 @@ To practice Markdown
 2. 学习能力，csdn网站和b站教学视频自学了github的基础知识，github是远程仓库，用于保存代码等文件，可开放共享，便于多人协作开发同一个项目。repository，branch熟悉基本操作，fork，commit和pull request。
 3. 乐鑫的员工必须专业，必须敢于创新，但更重要的是能学习新东西、学习新技术。
 
-### 技术文档风格规范 [style guide](https://github.com/yikeke/zh-style-guide/tree/master/source“点击前往外部站点”)
+### 技术文档风格规范 [style guide](https://github.com/yikeke/zh-style-guide/tree/master/source “点击前往外部站点”)
 **目的：提高中文文案的可读性，统一文档风格，保证公司对外输出形象一致**
 - 命名产品，建立统一的**产品名称表**
 - 文档质量检查工具grammarly， visual studio code插件
